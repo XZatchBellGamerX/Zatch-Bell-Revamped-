@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1747467701",
       "groups": {
-        "Zatch Bell Makai": "/proxy/api/imgur/chapter/level-001-kiyomaro-hero-of-justice-l6iHVrl"
+        "Zatch Bell Makai": [
+          "https://drive.google.com/uc?id=1ah_btD42h5u1Bi6IDNhe-FsIYxKWhuZb"
+        ]
       }
     },
     "2": {
