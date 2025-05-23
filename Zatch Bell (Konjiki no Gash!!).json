@@ -8,9 +8,11 @@
     "1": {
       "title": "Kiyomaro, the Hero of Justice",
       "volume": "1",
-      "last_updated": "1747985821",
+      "last_updated": "1747986256",
       "groups": {
-        "Zatch Bell Makai": "/proxy/api/imgur/chapter/l6iHVrl"
+        "Zatch Bell Makai": [
+          "https://imgur.com/a/level-001-kiyomaro-hero-of-justice-new-fan-translation-l6iHVrl"
+        ]
       }
     },
     "2": {
