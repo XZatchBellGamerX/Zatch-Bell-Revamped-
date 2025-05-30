@@ -88,57 +88,57 @@
     "11": {
       "title": "Chapter 11",
       "volume": "2",
-      "last_updated": "1748635146",
+      "last_updated": "1748647854",
       "groups": {
-        "Zatch Bell Makai": "/proxy/api/imgur/chapter/chapter-11-8jV6yAm"
+        "Zatch Bell Makai": "/proxy/api/imgur/chapter/zb2-chapter-11-8jV6yAm"
       }
     },
     "12": {
       "title": "Chapter 12",
       "volume": "3",
-      "last_updated": "1748641225",
+      "last_updated": "1748647902",
       "groups": {
-        "Zatch Bell Makai": "/proxy/api/imgur/chapter/chapter-12-JrQhYmp"
+        "Zatch Bell Makai": "/proxy/api/imgur/chapter/zb2-chapter-12-JrQhYmp"
       }
     },
     "13": {
       "title": "Chapter 13",
       "volume": "3",
-      "last_updated": "1748641522",
+      "last_updated": "1748647911",
       "groups": {
-        "Zatch Bell Makai": "/proxy/api/imgur/chapter/chapter-13-gIFyhj0"
+        "Zatch Bell Makai": "/proxy/api/imgur/chapter/zb2-chapter-13-gIFyhj0"
       }
     },
     "14": {
       "title": "Chapter 14",
       "volume": "3",
-      "last_updated": "1748641784",
+      "last_updated": "1748647923",
       "groups": {
-        "Zatch Bell Makai": "/proxy/api/imgur/chapter/chapter-14-zhh2fbN"
+        "Zatch Bell Makai": "/proxy/api/imgur/chapter/zb2-chapter-14-zhh2fbN"
       }
     },
     "15": {
       "title": "Chapter 15",
       "volume": "3",
-      "last_updated": "1748642217",
+      "last_updated": "1748647931",
       "groups": {
-        "Zatch Bell Makai": "/proxy/api/imgur/chapter/chapter-15-nh3fkcP"
+        "Zatch Bell Makai": "/proxy/api/imgur/chapter/zb2-chapter-15-nh3fkcP"
       }
     },
     "16": {
       "title": "Chapter 16",
       "volume": "3",
-      "last_updated": "1748644043",
+      "last_updated": "1748647939",
       "groups": {
-        "Zatch Bell Makai": "/proxy/api/imgur/chapter/chapter-16-Knxt4dL"
+        "Zatch Bell Makai": "/proxy/api/imgur/chapter/zb2-chapter-16-Knxt4dL"
       }
     },
     "17": {
       "title": "Chapter 17",
       "volume": "3",
-      "last_updated": "1748646033",
+      "last_updated": "1748647951",
       "groups": {
-        "Zatch Bell Makai": "/proxy/api/imgur/chapter/chapter-17-88dMr3F"
+        "Zatch Bell Makai": "/proxy/api/imgur/chapter/zb2-chapter-17-88dMr3F"
       }
     },
     "5.5": {
@@ -152,9 +152,17 @@
     "11.5": {
       "title": "Vol. 2 Extras (Gash Cafe)",
       "volume": "2",
-      "last_updated": "1748636090",
+      "last_updated": "1748647881",
       "groups": {
-        "Zatch Bell Makai": "/proxy/api/imgur/chapter/vol-2-extras-gash-cafe-OhKhS4o"
+        "Zatch Bell Makai": "/proxy/api/imgur/chapter/zb2-vol-2-extras-gash-cafe-OhKhS4o"
+      }
+    },
+    "17.5": {
+      "title": "Vol. 3 Extras (Gash Cafe)",
+      "volume": "3",
+      "last_updated": "1748647959",
+      "groups": {
+        "Zatch Bell Makai": "/proxy/api/imgur/chapter/zb2-vol-3-extras-gash-cafe-P8Zaiho"
       }
     }
   }
