@@ -752,9 +752,11 @@
     "84.5": {
       "title": "Vol. 9 Extras",
       "volume": "9",
-      "last_updated": "1756779500",
+      "last_updated": "1756780852",
       "groups": {
-        "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgur/chapter/vol-9-extras-new-fan-translation-MGvRi1M"
+        "Zatch Bell Makai & Viz Media Ex-Licenses": [
+          "https://imgur.com/a/vol-9-extras-new-fan-translation-MGvRi1M"
+        ]
       }
     }
   }
