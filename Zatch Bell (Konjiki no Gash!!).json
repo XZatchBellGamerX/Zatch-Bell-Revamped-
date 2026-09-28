@@ -757,6 +757,78 @@
         "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgchest/chapter/9ryd2n8k64k"
       }
     },
+    "95": {
+      "title": "The Twelve Assassins",
+      "volume": "11",
+      "last_updated": "1790633561",
+      "groups": {
+        "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgchest/chapter/5xy2keq9nyl"
+      }
+    },
+    "96": {
+      "title": "The Secret of the Book",
+      "volume": "11",
+      "last_updated": "1790633587",
+      "groups": {
+        "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgchest/chapter/6eyre2ape7p"
+      }
+    },
+    "97": {
+      "title": "The Sixth Spell",
+      "volume": "11",
+      "last_updated": "1790633622",
+      "groups": {
+        "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgchest/chapter/pg73epo9j4r"
+      }
+    },
+    "98": {
+      "title": "A 30-Second Chance to Win",
+      "volume": "11",
+      "last_updated": "1790633637",
+      "groups": {
+        "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgchest/chapter/ne7bap6xj45"
+      }
+    },
+    "99": {
+      "title": "The Dignity of a King",
+      "volume": "11",
+      "last_updated": "1790633656",
+      "groups": {
+        "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgchest/chapter/9p4nr2z3b7n"
+      }
+    },
+    "100": {
+      "title": "Wholehearted Devotion",
+      "volume": "11",
+      "last_updated": "1790633670",
+      "groups": {
+        "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgchest/chapter/5xy2keodzyl"
+      }
+    },
+    "101": {
+      "title": "The Worst Possible Matchup",
+      "volume": "11",
+      "last_updated": "1790633683",
+      "groups": {
+        "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgchest/chapter/bp45g8o3ny5"
+      }
+    },
+    "102": {
+      "title": "Expression of Anger",
+      "volume": "11",
+      "last_updated": "1790633701",
+      "groups": {
+        "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgchest/chapter/m9yx6vnrpyq"
+      }
+    },
+    "103": {
+      "title": "An Evil Power",
+      "volume": "11",
+      "last_updated": "1790633716",
+      "groups": {
+        "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgchest/chapter/n87wavnxx4x"
+      }
+    },
     "8.5": {
       "title": "Vol. 1 Extras",
       "volume": "1",
@@ -839,10 +911,18 @@
     },
     "94.5": {
       "title": "Vol. 10 Extras",
-      "volume": "9",
-      "last_updated": "1766675175",
+      "volume": "10",
+      "last_updated": "1790633611",
       "groups": {
         "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgchest/chapter/qe4gqp6nk7j"
+      }
+    },
+    "103.5": {
+      "title": "Vol. 11 Extras",
+      "volume": "11",
+      "last_updated": "1790633731",
+      "groups": {
+        "Zatch Bell Makai & Viz Media Ex-Licenses": "/proxy/api/imgchest/chapter/m9yx6vn36yq"
       }
     }
   }
